@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Quote_App" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/lightSky</item>
+        <item name="colorAccent">@color/lightBlue</item>
+        <item name="colorSecondaryVariant">@color/lightSky</item>
+    </style>
+
+    <style name="Theme.Quote_App" parent="Base.Theme.Quote_App" />
+</resources>
