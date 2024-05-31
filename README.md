@@ -11,6 +11,7 @@
 <img src="https://github.com/SouravvSharma/QuoteApp/assets/163539928/a00dfb4c-e9aa-43de-92b6-11d9954d098c" alt="GitHub Logo" width="400" height="800"/>
 
 
+
 **Quote loading Screen**
 
 
