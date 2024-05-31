@@ -4,7 +4,7 @@
 
 
 
-**Quote loaded Screen**<br>
+**Quote loaded Screen :-**<br>
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-**Quote loading Screen**
+**Quote loading Screen :-**
 
 
 <img src="https://github.com/SouravvSharma/QuoteApp/assets/163539928/4e255ab6-90e4-451b-8313-d049dac65475" alt="GitHub Logo" width="400" height="800"/>
