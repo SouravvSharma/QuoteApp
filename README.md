@@ -3,3 +3,5 @@
 
 ###
 ![QuoteSS2](https://github.com/SouravvSharma/QuoteApp/assets/163539928/4e255ab6-90e4-451b-8313-d049dac65475)
+
+<img src="https://github.com/SouravvSharma/QuoteApp/assets/163539928/4e255ab6-90e4-451b-8313-d049dac65475" alt="GitHub Logo" width="100"/>
